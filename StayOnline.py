@@ -1,3 +1,4 @@
+# To install pyautogui use command 'pip install pyautogui'
 import pyautogui as screen
 import random
 import time
