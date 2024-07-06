@@ -1,12 +1,13 @@
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-#                  Please Follow Me Here                  #
-#  Youtube    :                                           #
-#  Instagram  :                                           #
-#  X(Twitter) :                                           #
-#  Facebook   :                                           #
-#                                                         #
-# To install pyautogui use command 'pip install pyautogui'#
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# # # # # # # # # # # # # # # # # # # #
+#       Please Follow Me Here         #
+# # # # # # # # # # # # # # # # # # # #
+#    Youtube    : @rohanonbench       #
+#    Instagram  : @rohanonbench       #
+#    X(Twitter) : @rohanonbench       #
+#    Facebook   : @rohanonbench       #
+# # # # # # # # # # # # # # # # # # # #
+
+# To install pyautogui use command 'pip install pyautogui'
 import pyautogui as screen
 import time
 
