@@ -22,7 +22,7 @@ try:
         for c in message:
             screen.press(c)
         screen.press('|')
-        screen.press('enter')
+        screen.press('space')
         count=count+1
 except KeyboardInterrupt:
     end=time.time()
